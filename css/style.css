@@ -1,0 +1,93 @@
+#hour,#min,#sec,#day {
+  float: left; 
+  padding: 5px;
+  width: 48px;
+  height: 55px;
+  position: relative;
+  display: block;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	width: 24px;
+	height: 55px;
+	float: left;
+	color: #fff;
+	font-size: 3em;
+	font-weight: bold;
+	position: absolute;
+}
+
+#sec1, #min1, #hour1, #day1 {
+	margin-left: 24px;
+}
+
+#timer_wrap {
+	background-color: #515151;
+	border-radius: 10px;
+	height: 65px;
+	width: 340px;
+	padding: 15px 18px;
+}
+
+#clock {
+  border: 1px solid  white;
+  border-radius: 10px;
+  height: 65px;
+  width: 298px;
+  position: absolute;
+  color: #fff;
+  padding: 0 20px 0 20px;
+  position: absolute;
+}
+#colon {
+	float: left;
+	color: #fff;
+	font-weight: bold;
+	font-size: 3em;
+	margin: 0 3px 0 3px;
+}
+#stop {
+  color: #fff;
+  font-size: 2em;
+  margin: 15px 10px 10px 25px;
+  position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
